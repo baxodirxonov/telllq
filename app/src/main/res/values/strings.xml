@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sensor yordamchi</string>
+    <string name="service_label">Sensor yordamchi</string>
+    <string name="service_description">Ekranning ishlamaydigan qismidagi tugmalarni bosish va scroll qilish uchun virtual touchpad ko\'rsatadi. Kursor turgan joyga sun\'iy bosish va surish harakatlarini yuboradi.</string>
+</resources>
